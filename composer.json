@@ -27,6 +27,8 @@
       "Tests\\": "tests/"
     }
   },
+      "minimum-stability": "dev",
+    "prefer-stable": true,
   "archive": {
     "exclude": [
       "/tests",
