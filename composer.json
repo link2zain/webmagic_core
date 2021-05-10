@@ -8,7 +8,6 @@
       "email": "link2zain0@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": "7.1 - 7.4",
     "laravel/framework": "5.5 - 7",
@@ -27,8 +26,8 @@
       "Tests\\": "tests/"
     }
   },
-      "minimum-stability": "dev",
-    "prefer-stable": true,
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "archive": {
     "exclude": [
       "/tests",
